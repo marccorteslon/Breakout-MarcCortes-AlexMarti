@@ -43,7 +43,10 @@ std::cout << "       \\::::/    /              \\::|   |                 \\:::\\
  std::cout << "        ~~                       \\|___|                   \\/____/                  \\/____/                  \\/____/                  \\|___|                                            ~~											 " << std::endl;
                                                                                                                                                                                                                              
 
-	std::cout << "Press 1 for Ranking and 2 for Gameplay";
+ std::cout << "Press 1 for Ranking" << std :: endl;
+ std::cout << "2 for Gameplay" << std :: endl;
+ std::cout << "3 Credits" << std::endl;
+ std::cout << "0 EXIT" << std::endl;
 
 
 
